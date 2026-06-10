@@ -55,3 +55,13 @@ Frontend environment variables:
 - `VITE_BACKEND_API_TOKEN`
 - `VITE_LOGGING_API_URL`
 - `VITE_LOGGING_API_TOKEN`
+
+
+Screenshots:
+
+![alt text](<Priority Nouncations.png>)
+
+![alt text](<Carous hottkainni.png>)
+
+![alt text](<Carous hottkainni-1.png>)
+
